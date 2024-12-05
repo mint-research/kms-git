@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "workflows/workflow1_local-automation.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "workflow1_local-automation"
+              "title": "README"
             }
           }
         ]
@@ -194,8 +194,8 @@
   },
   "active": "c720ff187f838d6c",
   "lastOpenFiles": [
-    "workspace/temp/new_temp.md",
     "workflows/workflow1_local-automation.md",
+    "workspace/temp/new_temp.md",
     "docs/product-sheets/windsurf.md",
     "docs/product-sheets/visual_studio_code.md",
     "docs/product-sheets/telegram.md",

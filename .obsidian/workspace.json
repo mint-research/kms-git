@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/courses/2024_sma-o/01_woche-1.md",
+                "file": "readme.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "01_woche-1"
+              "title": "readme"
             }
           }
         ]
@@ -194,8 +194,8 @@
   },
   "active": "ce0255bddc930f4f",
   "lastOpenFiles": [
-    "docs/courses/2024_sma-o/00_get-started.md",
     "docs/courses/2024_sma-o/01_woche-1.md",
+    "docs/courses/2024_sma-o/00_get-started.md",
     "readme.md",
     "docs/knowledge/chatbots_befehlsarten.md",
     "docs/knowledge/db_relational.md",

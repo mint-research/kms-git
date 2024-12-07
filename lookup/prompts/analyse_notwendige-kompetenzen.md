@@ -1,18 +1,16 @@
-
 ---
-title: Dokumenttitel
+title: Analyse notwendige Kompetenzen
 author: skr
-type: 
-publish: false
+type: prompt
+publish: true
 tags: 
 source: 
-dependencies:
+dependencies: "[[prompts]]"
 date_created: 2024-11-28
 ---
 ---
 ```ad-info
 Ermittle und kategorisiere die spezifischen Methoden- und IT-Kompetenzen, die für das erfolgreiche Durchlaufen eines definierten Workflows notwendig sind. Die Ausgabe sollte logisch gegliedert, präzise und vollständig sein.
-
 ```
 ---
 # Prompt
@@ -31,7 +29,6 @@ Vorgaben:
 	- Methodenkompetenzen (z. B. Problemlösung, Prozessmodellierung, Projektmanagement).
 - IT-Kompetenzen (z. B. Tools, Technologien, Sicherheitsstandards).
 
-  
 Anforderungen an die Ausgabe:
 
 - Struktur:

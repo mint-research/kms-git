@@ -1,11 +1,11 @@
 ---
 title: Docker - Get Started Tutorial
 author: skr
-type: 
+type: tutorial
 publish: true
 tags: 
 source: 
-dependencies: 
+dependencies: "[[tutorials]]"
 date_created: 2024-11-28
 ---
 ---

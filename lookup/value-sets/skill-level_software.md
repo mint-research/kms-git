@@ -1,11 +1,11 @@
 ---
 title: Skala zur Einordung software-spezifischer Kenntnisse und Fähigkeiten
 author: skr
-type: value-set_scale
+type: value-set
 publish: true
 tags: 
 source: 
-dependencies:
+dependencies: "[[value-sets]]"
 date_created: 2024-11-28
 ---
 ---

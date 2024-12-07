@@ -1,6 +1,6 @@
 ---
 title: Dokumenttitel
-author: skr
+author: 
 type: 
 publish: false
 tags: 

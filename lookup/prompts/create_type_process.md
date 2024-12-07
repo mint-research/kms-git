@@ -5,7 +5,7 @@ type: prompt
 publish: true
 tags: 
 source: 
-dependencies:
+dependencies: "[[prompts]]"
 date_created: 2024-11-28
 ---
 ---

@@ -1,14 +1,15 @@
 ---
-title: Dokumenttitel
+title: Zielgruppenbeschreibung SMA 2024
 author: skr
-type: prompt
-publish: 
+type: knowledge
+publish: true
 tags: 
 source: 
-dependencies:
+dependencies: "[[prompts]]"
 date_created: 2024-11-28
 ---
 ---
+
 ```ad-info
 
 Der Prompt soll eine detaillierte, schrittweise Anleitung für ein AI-basiertes, persönliches Wissensmanagement-System erstellen, die auf die Bedürfnisse einer heterogenen Gruppe von Studenten mit unterschiedlichem Wissensniveau in IT und BWL zugeschnitten ist. Ziel ist es, alle Schritte klar und verständlich zu erklären, sodass die Benutzer die Anleitung leicht nachvollziehen und umsetzen können.

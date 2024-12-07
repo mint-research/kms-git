@@ -5,7 +5,7 @@ type: process
 publish: true
 tags: 
 source: 
-dependencies:
+dependencies: "[[processes]]"
 date_created: 2024-11-28
 ---
 ---

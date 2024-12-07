@@ -1,7 +1,7 @@
 {
   "syncFolderName": true,
-  "ctrlKey": true,
-  "altKey": false,
+  "ctrlKey": false,
+  "altKey": true,
   "hideFolderNote": true,
   "templatePath": "",
   "autoCreate": false,
@@ -10,7 +10,7 @@
   "whitelistFolders": [],
   "showDeleteConfirmation": true,
   "underlineFolder": true,
-  "stopWhitespaceCollapsing": true,
+  "stopWhitespaceCollapsing": false,
   "underlineFolderInPath": true,
   "openFolderNoteOnClickInPath": true,
   "openInNewTab": false,
@@ -48,14 +48,14 @@
     "explorer": true,
     "path": true
   },
-  "settingsTab": "general",
+  "settingsTab": "file_explorer",
   "supportedFileTypes": [
     "md",
     "canvas"
   ],
   "boldName": false,
   "boldNameInPath": false,
-  "cursiveName": false,
+  "cursiveName": true,
   "cursiveNameInPath": false,
   "disableOpenFolderNoteOnClick": false,
   "openByClick": true,
@@ -87,7 +87,7 @@
     "string": "",
     "hideInSettings": false
   },
-  "hideCollapsingIcon": false,
+  "hideCollapsingIcon": true,
   "tabManagerEnabled": true,
   "ignoreAttachmentFolder": true,
   "deleteFilesAction": "trash"

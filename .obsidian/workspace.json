@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d55453f22dbee63b",
+        "id": "575f84dae8b45a3a",
         "type": "tabs",
         "children": [
           {
-            "id": "c720ff187f838d6c",
+            "id": "ce0255bddc930f4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "docs/courses/2024_sma-o/01_woche-1.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "01_woche-1"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 227.5
   },
   "right": {
     "id": "cb0304991be751af",
@@ -192,36 +192,43 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "416d40e88e322e36",
+  "active": "ce0255bddc930f4f",
   "lastOpenFiles": [
-    "lookup/workflows/workflow1_local-automation.md",
-    "workspace/temp/new_temp.md",
-    "docs/product-sheets/windsurf.md",
-    "docs/product-sheets/visual_studio_code.md",
-    "docs/product-sheets/telegram.md",
-    "docs/product-sheets/qdrant.md",
-    "docs/product-sheets/postgresql.md",
-    "docs/product-sheets/pipedream.md",
-    "docs/product-sheets/perplexity.md",
-    "docs/product-sheets/ollama.md",
-    "docs/product-sheets/obsidian.md",
-    "docs/product-sheets/notebooklm.md",
-    "docs/product-sheets/n8n.md",
-    "docs/product-sheets/granitellm.md",
-    "docs/product-sheets/gitlab.md",
-    "docs/product-sheets/github.md",
-    "docs/product-sheets/flowise.md",
-    "docs/product-sheets/fasthtml.md",
-    "docs/product-sheets/docker.md",
-    "docs/product-sheets/cursor.md",
-    "docs/product-sheets/chatgpt.md",
-    "docs/product-sheets",
-    "docs/processes/new_product_sheet.md",
-    "docs/processes/new_process.md",
-    "docs/processes/new_audience.md",
-    "docs/processes/_new_tutorial_admin.md",
-    "docs/processes",
-    "docs/methods/prompt_engineering.md",
-    "docs/methods"
+    "docs/courses/2024_sma-o/00_get-started.md",
+    "docs/courses/2024_sma-o/01_woche-1.md",
+    "readme.md",
+    "docs/knowledge/chatbots_befehlsarten.md",
+    "docs/knowledge/db_relational.md",
+    "docs/knowledge/db_vector.md",
+    "docs/knowledge/knowledge.md",
+    "docs/courses/2024_sma-o/2024_sma-o.md",
+    "docs/courses/courses.md",
+    "lookup/prompts/prompt_prompt-optimierung.md",
+    "lookup/templates/obsidian/page-type_docs.md",
+    "lookup/value-sets/documentation_level-of-detail.md",
+    "lookup/value-sets/skill-level_software.md",
+    "lookup/value-sets/skill-level_topic.md",
+    "lookup/workflows/sma/workflow1_local-automation.md",
+    "lookup/workflows/kms/kms.md",
+    "lookup/workflows/workflows.md",
+    "lookup/prompts/prompt_tldr.md",
+    "lookup/templates/templates.md",
+    "lookup/prompts/output_markdown.md",
+    "lookup/prompts/input_audience-sma.md",
+    "lookup/prompts/create_type_tutorial_get-started.md",
+    "lookup/prompts/create_type_projektziel_okt.md",
+    "lookup/prompts/create_type_product-sheet.md",
+    "lookup/prompts/create_type_process.md",
+    "lookup/prompts/create_type_knowledge-page.md",
+    "docs/knowledge/prompt_engineering",
+    "workspace/temp/Raspberry Pi 5",
+    "lookup/contexts/1-inputs/_principles",
+    "lookup/contexts/1-inputs/projects",
+    "lookup/contexts/1-inputs/types",
+    "lookup/contexts/1-inputs/_standards/obsidian",
+    "lookup/contexts/1-inputs/_standards",
+    "lookup/contexts/1-inputs/audiences",
+    "lookup/contexts/2-sets",
+    "lookup/contexts/1-inputs"
   ]
 }

@@ -5,7 +5,7 @@ type: format
 publish: true
 tags: 
 source: 
-dependencies:
+dependencies: "[[formats]]"
 date_created: 2024-11-28
 ---
 ---

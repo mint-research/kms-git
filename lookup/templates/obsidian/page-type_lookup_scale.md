@@ -1,7 +1,7 @@
 ---
 title: Dokumenttitel
 author: skr
-type: value-set_scale
+type: value-set
 publish: true
 tags: 
 source: 
